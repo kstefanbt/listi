@@ -388,6 +388,8 @@ id:t2
                 database.insertIntoTableL(listView1.count+listView2.count,in1.text)
                 Model1.updateModel();
                 Model2.updateModel();
+                Model3.updateModel();
+                Model4.updateModel();
                 Model5.updateModel();
                 Model6.updateModel();
                 buttons.visible = !buttons.visible
